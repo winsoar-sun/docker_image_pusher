@@ -1,1 +1,1 @@
-Ubuntu:latest
+Ubuntu:20.04
